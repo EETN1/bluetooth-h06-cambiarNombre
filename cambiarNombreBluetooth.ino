@@ -1,3 +1,6 @@
+/*
+   Editado por el departamento de Programacion de EESTN°1 Raul Scalabrini Ortiz
+*/
 //Utilizar para renombrar los modulos H06 Bluetooth
 //Tener en cuenta Cambiar en la consola Nueva Linea, la frecuencia en 9600 baudios
 
